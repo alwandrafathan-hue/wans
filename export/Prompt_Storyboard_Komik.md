@@ -27,6 +27,10 @@ Prompt ditulis dalam bahasa Inggris karena hasil gambarnya lebih akurat. Dialog 
 - DIMAS → **ELANG** (drone dan peta)
 - NADIA → **AKAR** (dekat dengan petani)
 
+## Disesuaikan dengan rundown induksi
+
+Lokasi setiap panel mengikuti kegiatan di rundown induksi (12–16 Desember): kedatangan di mess, Binsik, lab PUTS/PUTK, Outbond Caraka, materi K3, tanda tangan kontrak magang, makan malam terakhir, dan Wisma Kebomas. Hero walk di akhir memakai setelan putih, bukan APD di pabrik. Jadwal lengkapnya ada di bagian *Jadwal syuting* di dokumen naskah.
+
 ## Cara pakai
 
 1. Buka satu percakapan baru di ChatGPT dan pakai percakapan yang sama sampai selesai, supaya wajah tokoh tetap konsisten.
@@ -87,7 +91,7 @@ Comic storyboard page, 4 panels: one wide panel on top and 3 panels below, lands
 
 Panel 1 (Scene 02, wide): Agent-introduction freeze frames: the panel is split into 4 vertical strips, each trainee in a dormitory room opening an identical black envelope in their own way. Each strip has a yellow HUD name tag: "RAKA · KOMPAS" (tears it neatly along the edge), "SARI · TABUNG" (cuts it with a small cutter), "DIMAS · ELANG" (shakes it next to his ear, grinning), "NADIA · AKAR" (holds it gently, looking at a photo).
 Panel 2 (Scene 02): Close-up of a classified mission dossier on cream paper: navy header strip "BERKAS MISI · No. 10/X", photo of cracked soil, typewriter text "SATU SAWAH. ENAM HARI.", round terracotta stamp "17 DES".
-Panel 3 (Scene 03): Misty training field at dawn, low angle. The 4 recruits meet for the first time and each holds up the same photo, suspicious of each other like rival agents. Dimas bubble: "Wah, kita satu boyband ternyata."
+Panel 3 (Scene 03): Training field in the morning, dew on the grass, low angle. The 4 recruits meet for the first time and each holds up the same photo, suspicious of each other like rival agents. Dimas bubble: "Wah, kita satu boyband ternyata."
 Panel 4 (Scene 03): Raka with an open notebook and Sari with crossed arms face off. Nadia stands behind, small. Her small bubble: "Kita belum tanya Bapaknya maunya apa." Nobody hears her.
 
 No weapons. No logos anywhere.
@@ -100,7 +104,7 @@ No weapons. No logos anywhere.
 ```
 Comic storyboard page, 4 panels in a 2x2 grid, landscape 16:9, thin black gutters. Same characters from the agent reference sheet. Sleek modern spy-thriller comic style, ink outlines, flat print colors, no gradients, no neon. Palette: navy #14213D, cream #F2EADA, yellow #FBC800, terracotta #E4572E. Small scene number in each panel corner.
 
-Panel 1 (Scene 04): Training-building hallway framed like a surveillance room. Raka holds a phone on speaker, the others lean in tensely. Bubble from the phone: "Sudah banyak yang datang bawa map, Mas." HUD overlay in terracotta: "KONTAK TERPUTUS · 00:15".
+Panel 1 (Scene 04): Dormitory hallway at midday framed like a surveillance room. Raka holds a phone on speaker, the others lean in tensely. Bubble from the phone: "Sudah banyak yang datang bawa map, Mas." HUD overlay in terracotta: "KONTAK TERPUTUS · 00:15".
 Panel 2 (Scene 04): Close-up: Raka's marker circles "17 DES" on a whiteboard three times, thick and hard, like marking a target.
 Panel 3 (Scene 05): Chapter card: navy panel with a yellow label "UJIAN 1 · LAB". Below it, the 4 recruits in white lab coats, safety goggles and blue nitrile gloves, lit like a high-tech lab, test tubes glowing in palette colors.
 Panel 4 (Scene 05): Sari smiles confidently at a screen showing "pH 4,9". Nadia beside her looks unsure. Sari bubble, not looking at Nadia: "Datanya nggak bohong, Nad. Perasaan yang suka bohong."
@@ -148,7 +152,7 @@ Comic storyboard page, 4 panels: 3 narrow panels on top and one wide panel below
 Panel 1 (Scene 10): Chapter label "UJIAN 4 · K3". Suit-up sequence like a spy preparing gear, extreme close-ups: hands buckling a white safety helmet strap, pulling on gloves, zipping an orange safety vest. Sound-effect text: "KLIK".
 Panel 2 (Scene 10): Close-up of a warning label on an agricultural lime sack with simple icons of a mask, goggles and gloves. Raka reads it. Raka bubble: "Rekomendasi kita harus aman dipakai Bapaknya sendirian."
 Panel 3 (Scene 10): The 4 recruits in full safety gear standing in a symmetrical line, checking each other's straps, low heroic angle.
-Panel 4 (Scene 11, wide): Night, empty classroom, one lamp, framed like an operations room. Raka reveals ONE sheet of paper like a secret gadget: a simple drawing of three rice plots with the north plot marked, three picture steps with arrows, and mask, goggles and glove icons. A laptop video call shows only HALF of Pak Karto's face from below (chin, grey mustache, brown collar), eyes NOT visible. HUD: "OPERASI: SATU LEMBAR". Nadia bubble: "Pak, boleh kami tanya dulu?" Bubble from the laptop: "Saya pikir dulu."
+Panel 4 (Scene 11, wide): Empty classroom during the midday break, blinds half closed, framed like an operations room. Raka reveals ONE sheet of paper like a secret gadget: a simple drawing of three rice plots with the north plot marked, three picture steps with arrows, and mask, goggles and glove icons. A laptop video call shows only HALF of Pak Karto's face from below (chin, grey mustache, brown collar), eyes NOT visible. HUD: "OPERASI: SATU LEMBAR". Nadia bubble: "Pak, boleh kami tanya dulu?" Bubble from the laptop: "Saya pikir dulu."
 
 No weapons. No logos anywhere.
 ```
@@ -160,9 +164,9 @@ No weapons. No logos anywhere.
 ```
 Comic storyboard page, 4 panels: one narrow panel on top, one large panel in the middle, two panels at the bottom, landscape 16:9, thin black gutters. Same characters from the agent reference sheet. Sleek modern spy-thriller comic style, ink outlines, flat print colors, no gradients. Warm mood from the middle panel on: warm yellow light #FBC800 over navy and cream.
 
-Panel 1 (Scene 12): Factory walkway, a line of trainees in white helmets and orange vests on a safe pedestrian path. Dimas checks an empty phone and shakes his head. HUD top-left: navy box, yellow text "HARI 5 / 6 · TENGGAT 17 DES · T-2". Generic factory, no company names.
+Panel 1 (Scene 12): Training room in the afternoon, trainees in white shirts queue at a long table to sign internship contracts. Dimas checks an empty phone in the queue and shakes his head; Raka signs his contract with a tense jaw. HUD top-left: navy box, yellow text "HARI 5 / 6 · TENGGAT 17 DES · T-1". No company names.
 Panel 2 (Scene 13, large): Phone screen close-up: for the FIRST time, Pak Karto's FULL FACE: an old Indonesian farmer, wet eyes, warm smile, holding a tray of young green rice seedlings. Behind him the one-sheet paper taped to a wooden door. Bubble: "Besok saya mulai semai. Musim ini saya tanam." HUD overlay in yellow: "MISI BERHASIL".
-Panel 3 (Scene 13): Dormitory celebration with a traditional cone-shaped yellow rice (tumpeng). Nadia covers her mouth, Sari hugs her, Dimas pats Raka's back, Raka cries silently.
+Panel 3 (Scene 13): Last-night group dinner in a dining hall with a traditional cone-shaped yellow rice (tumpeng). Nadia covers her mouth, Sari hugs her, Dimas pats Raka's back, Raka cries silently.
 Panel 4 (Scene 13): Four agent ID cards on a table lighting up one by one: cream cards with a yellow top band, names RAKA, SARI, NADIA, DIMAS, and the text "ADVISOR AGRONOMIST". Leave an empty square on each card for a logo.
 
 No weapons. No logos anywhere, keep logo spaces blank.
@@ -175,7 +179,7 @@ No weapons. No logos anywhere, keep logo spaces blank.
 ```
 Comic storyboard page, 4 panels in a 2x2 grid, landscape 16:9, thin black gutters. Same characters from the agent reference sheet. Sleek modern spy-thriller comic style, ink outlines, flat print colors, no gradients, no neon. Palette: navy #14213D, cream #F2EADA, yellow #FBC800, terracotta #E4572E. Small scene number in each panel corner.
 
-Panel 1 (Scene 14): Heroic slow-motion low-angle shot: the 4 new agents walk toward the camera in a V formation in white helmets and orange safety vests, more trainees behind them, a generic factory tower and morning sun behind. Stylish and confident, like the final walk of a spy film.
+Panel 1 (Scene 14): Heroic slow-motion low-angle shot: the 4 new agents walk toward the camera in a V formation in crisp all-white uniforms, dozens of trainees in white behind them, a grand event hall building and morning sun behind. Small inset: muddy boots match-cutting to clean white shoes on a carpet. Stylish and confident, like the final walk of a spy film.
 Panel 2 (Scene 15): Four extreme close-up faces in a row, each with one bold word: Raka "Tanah.", Sari "Data.", Nadia "Petani.", Dimas tapping his helmet "Selamat."
 Panel 3 (Scene 15): Navy screen with a big faint X shape, the words "Tanah • Data • Petani • Selamat" in cream with yellow dots, and a tilted terracotta rubber stamp "MISI DIMULAI". Leave an empty white horizontal band at the top center for logos.
 Panel 4 (Scene 16): Deployment map like a spy-agency operations screen: cream map with yellow dots spreading from one terracotta dot labeled "Gresik" across Java and Bali, radar circles around it. Below it, a small strip showing a green rice field with an old farmer in a conical hat planting at the edge (silhouette). Caption: "Beda sawah. Kerjaannya sama."
